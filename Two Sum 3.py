@@ -1,6 +1,6 @@
 __author__ = 'wangzaicheng'
 
-
+#forget consider about duplicate
 class TwoSum:
     def __init__(self):
         self.st = set()
